@@ -72,8 +72,15 @@ body {
     top: 320px;
     border-radius: 30px;
     bottom: 20px;
+    overflow-y: hidden;
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.stores-list {
     padding-left: 20px;
     padding-right: 20px;
+    overflow-y: scroll;
 }
 
 .store-address {

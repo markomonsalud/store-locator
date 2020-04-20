@@ -58,6 +58,11 @@ body {
     color: white;
 }
 
+.store-container {
+    display: flex;
+    border-bottom: 1px solid #979797;
+}
+
 .stores-list-container {
     width: 400px;
     position: absolute;
@@ -67,7 +72,44 @@ body {
     top: 320px;
     border-radius: 30px;
     bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.store-address {
+    font-size: 21px;
+    color: 514C4C;
+    margin-top: 30px;
+}
+
+.store-address span {
+    display: block;
+}
+
+.store-phone-number {
+    color: #B5ADAD;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.store-number{
+    width: 30px;
+    height: 30px;
+    background-color: #454E53;
+    color: #B5ADAD;
+    border-radius: 50%;
+    font-size: 12px;
     display: flex;
-    overflow-y: hidden;
-    padding-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.store-info-container {
+    flex-grow: 1;
+}
+
+.store-number-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

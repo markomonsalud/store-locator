@@ -13,20 +13,20 @@ body {
 .title {
     position: absolute;
     z-index:100;
-    font-size: 88px;
+    font-size: 48px;
     font-weight: bold;
     color: #333;
     text-transform: uppercase;
     top: 100px;
-    left: 100px;
+    left: 50px;
 }
 
 .search-container {
     border-radius: 30px;
     position: absolute;
     z-index:100;
-    top: 230px;
-    left: 100px;
+    top: 160px;
+    left: 50px;
     width: 400px;
     height: 60px;
     background-color: #454E53;
@@ -68,8 +68,8 @@ body {
     position: absolute;
     z-index: 100;
     background: white;
-    left: 100px;
-    top: 320px;
+    left: 50px;
+    top: 240px;
     border-radius: 30px;
     bottom: 20px;
     overflow-y: hidden;

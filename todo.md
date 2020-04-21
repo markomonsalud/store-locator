@@ -39,3 +39,9 @@ DAY 3
 - Allow a user to search for the stores in a zip code DONE
 
 - Add a beautiful transition on the hover of the individual store DONE!
+
+-----------------------------------------------
+
+Enhancements:
+
+Locate Food, Chemists, Gasoline Stations, Hospitals

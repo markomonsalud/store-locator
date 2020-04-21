@@ -28,3 +28,14 @@ DAY 2
 - MAYBE: Show the info window when you click on the individual store
 
 - MAYBE: Add a beautiful transition on the hover of the individual store
+
+-----------------------------------------------
+DAY 3
+
+- Complete the styling for the marker info window DONE
+
+- Open the info window on store selection in stores list DONE
+
+- Allow a user to search for the stores in a zip code DONE
+
+- Add a beautiful transition on the hover of the individual store DONE!
